@@ -1,0 +1,6 @@
+Mike is a father of John
+Mike is a father of Will
+John is a father of Andrew
+Mike is a father of Bob
+John is a father of Levi
+Bob is a father of Gilbert

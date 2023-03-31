@@ -1,0 +1,6 @@
+ADD 1
+SUB 1
+ADD 3
+GOTO 5
+ADD 1
+SUB 0
